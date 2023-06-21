@@ -1,0 +1,3 @@
+[flask.commands]
+app = app.manage:cli
+
